@@ -20,13 +20,13 @@
 
 ## Delegado
 
-- Nombre: 
-- Correo: 
+- Nombre: Jorge Richard Cordero Huaman
+- Correo: jorge.cordero.h@uni.pe
 
 ## Subdelegado
 
-- Nombre: 
-- Correo: 
+- Nombre: Jorge Ñaupa Perez
+- Correo: jorge.naupa.p@uni.pe
 
 # RECURSOS UTILES
 
