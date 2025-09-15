@@ -1,6 +1,12 @@
-Dayana promete estudiar
+Si estudia C++
 Entonses: aprueba PC1
 Si no: Invita pan chicharon a todos
+
+Si aprueba BIC01
+Entonces: Lleva Mate discreta
+Si no: Invita arepa a todos
+
+
 
 
 
