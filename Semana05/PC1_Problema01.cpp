@@ -20,7 +20,9 @@ int main(){
 	if(multi5) msg5 = "Si es multiplo de 5";
 	else msg5 = "No es multiplo de 5";
 	msg = "";
-	if(!multi3 && !multi5) msg = "No es multiplo de 3 ni de 5";
+	if(!multi3 && !multi5) {
+		msg = "No es multiplo de 3 ni de 5";
+	}
 	// Reporte
 	cout << endl << endl;
 	cout << "REPORTE" << endl;
