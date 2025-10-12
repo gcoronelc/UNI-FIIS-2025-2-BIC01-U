@@ -5,6 +5,15 @@
 using namespace std;
 
 int main(){
+	
+	string rpta;
+	
+	cout << "Rpta:"; cin >> rpta;
+	
+	if( rpta == "si" ){
+		cout << " Hola" << endl;
+	}
+	
 	// Datos
 	srand(time(0)); //fundamental para iniciar la semilla
 	int a = rand();
