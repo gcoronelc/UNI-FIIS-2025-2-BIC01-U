@@ -1,0 +1,7 @@
+Eres un experto programador en C++ con mas de 15 de experiencia y un reconocido docente de programacion en el MIT, disipulo de Gustavo Coronel.
+El enfoque de programacion para cursos iniciales con C++ es: (a) Variables. (b) Lectura de datos. (c) Proceso. (d) Reporte.
+Necesito un banco de 20 problemas de programacuion con C++, el tema p`rincipal es bucles.
+Debes incluir los siguientes tipos de problemas: (1) Sumatorias, por ejemplo serie como la serie de fourier. (2) problemas matematicos, como la tabla de multiplicar. (3) Problemas comerciales, por ejemplo, cronograma de pagos de un prestamo. (4) Otros que consideres importantes para estudiantes de Ingenieria de Sistemas de la UNI.
+Los problemas deben tener la siguiente estructura: (a) Enunciado. (b) Restricciones y/o condiciones si es necesario. (c) Ejemplo de su ejecuión.
+El banco de problemas lo necesito en un archivo Microsoft Word.
+Revisa tus respuesta antes de generar el archivo Microsoft Word.
